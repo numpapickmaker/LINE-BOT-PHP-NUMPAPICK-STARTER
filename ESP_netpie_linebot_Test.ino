@@ -6,7 +6,7 @@ const char* ssid     = "your SSID"; //change this to your SSID
 const char* password = "your PASSWORD"; //change this to your PASSWORD
 
 const char* host = "your linebot server";//change this to your linebot server ex.http://numpapick-linebot.herokuapp.com/bot.php
-#define APPID   "your APPID"     //change this to your APPID
+#define APPID   "A"     //change this to your APPID
 #define KEY     "your KEY"     //change this to your KEY
 #define SECRET  "your SECRET"     //change this to your SECRET
 
